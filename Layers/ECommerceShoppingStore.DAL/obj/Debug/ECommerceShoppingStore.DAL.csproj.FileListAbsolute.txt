@@ -1,0 +1,11 @@
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\obj\Debug\ECommerceShoppingStore.DAL.csprojAssemblyReference.cache
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\obj\Debug\ECommerceShoppingStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\bin\Debug\ECommerceShoppingStore.DAL.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\bin\Debug\ECommerceShoppingStore.DAL.pdb
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\bin\Debug\ECommerceShoppingStore.Entities.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\bin\Debug\ECommerceShoppingStore.Exceptions.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\bin\Debug\ECommerceShoppingStore.Entities.pdb
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\bin\Debug\ECommerceShoppingStore.Exceptions.pdb
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\obj\Debug\ECommerceShoppingStore.DAL.csproj.CopyComplete
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\obj\Debug\ECommerceShoppingStore.DAL.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.DAL\obj\Debug\ECommerceShoppingStore.DAL.pdb

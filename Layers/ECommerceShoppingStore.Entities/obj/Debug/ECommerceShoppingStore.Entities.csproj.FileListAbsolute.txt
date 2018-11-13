@@ -1,0 +1,6 @@
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Entities\bin\Debug\ECommerceShoppingStore.Entities.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Entities\bin\Debug\ECommerceShoppingStore.Entities.pdb
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Entities\obj\Debug\ECommerceShoppingStore.Entities.csprojAssemblyReference.cache
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Entities\obj\Debug\ECommerceShoppingStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Entities\obj\Debug\ECommerceShoppingStore.Entities.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Entities\obj\Debug\ECommerceShoppingStore.Entities.pdb

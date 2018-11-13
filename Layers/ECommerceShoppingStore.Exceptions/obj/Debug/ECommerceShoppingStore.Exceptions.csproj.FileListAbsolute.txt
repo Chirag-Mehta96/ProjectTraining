@@ -1,0 +1,9 @@
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\bin\Debug\ECommerceShoppingStore.Exceptions.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\bin\Debug\ECommerceShoppingStore.Exceptions.pdb
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\bin\Debug\ECommerceShoppingStore.Entities.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\bin\Debug\ECommerceShoppingStore.Entities.pdb
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\obj\Debug\ECommerceShoppingStore.Exceptions.csprojAssemblyReference.cache
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\obj\Debug\ECommerceShoppingStore.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\obj\Debug\ECommerceShoppingStore.Exceptions.csproj.CopyComplete
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\obj\Debug\ECommerceShoppingStore.Exceptions.dll
+C:\Users\chirameh\source\repos\ECommerceShoppingStore\ECommerceShoppingStore.Exceptions\obj\Debug\ECommerceShoppingStore.Exceptions.pdb
